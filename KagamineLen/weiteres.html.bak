@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<title>Len Kagamine</title>
+
+		<link href="designlen.css" rel="stylesheet">
+	</head>
+	
+	<body>
+	<div id="header">
+		<h1>Len Kagamine (鏡音レン)</h1>
+	</div>
+	<hr>
+	<div id="Menue">
+		<a href="index.html">Startseite</a>
+		<a href="songs.html">Songs</a>
+		<a href="#">Weiteres</a>
+	</div>
+	<hr>
+	
+	<div id="freunde">
+	<h1>Len's Freunde</h1><br />
+	<table border="3">
+		<tr>
+			<td>Virtual Singer</td>
+			<td>Leo Need</td>
+			<td>More More Jump</td>
+			<td>Wonderland x Showtime</td>
+			<td>Vivid Bad Squad</td>
+			<td>Nightcord at 25:00</td>
+		</tr>	
+		<tr>
+			<td>Miku</td>
+			<td>Ichika</td>
+			<td>Minori</td>
+			<td>Tsukasa</td>
+			<td>Kohane</td>
+			<td>Kanade</td>
+		</tr>
+		<tr>
+			<td>Rin (Schwester)</td>
+			<td>Saki</td>
+			<td>Haruka</td>
+			<td>An</td>
+			<td>Emu</td>
+			<td>Mafuyu</td>
+		</tr>
+		<tr>
+			<td>Luka</td>
+			<td>Honami</td>
+			<td>Airi</td>
+			<td>Akito</td>
+			<td>Nene</td>
+			<td>Ena</td>
+		</tr>
+		<tr>
+			<td>Kaito</td>
+			<td>Shiho</td>
+			<td>Shizuku</td>
+			<td>Toya</td>
+			<td>Rui</td>
+			<td>Mizuki</td>
+		</tr>
+		<tr>
+			<td>Meiko</td>
+		</tr>
+	</table>
+	</div>
+	
+	<div id="rollen">
+	<h1>Len spielt auch als...</h1>
+		<img src="AllenAvadonia.jpg" />
+			<p>Allen Avadonia</p>
+		<img src="Pollooo.jpg" />
+			<p>Pollo</p>
+		<img src="LemyAbelard.jpg" />
+			<p>Lemy Abelard</p>
+	</div>
+	
+		
+		
+		
+		
+		
+		
+	</body>
+</html>

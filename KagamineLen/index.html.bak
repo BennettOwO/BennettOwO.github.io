@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<title>Len Kagamine</title>
+
+		<link href="designlen.css" rel="stylesheet">
+	</head>
+	
+	<body>
+	<div id="header">
+		<h1>Len Kagamine (鏡音レン)</h1>
+	</div>
+	<hr>
+	<div id="Menue">
+		<a href="#">Startseite</a>
+		<a href="songs.html">Songs</a>
+		<a href="weiteres.html">Weiteres</a>
+	</div>
+	<hr>
+		
+	<div id="Len">
+		<img src="Len2.jpg" />
+	</div>
+	<div id="Inhalt">
+		<h1>Len Kagamine (鏡音レン)</h1>
+		<p>Len Kagamine! Ein virtueller Sänger/Vocaloid.
+		Er ist ,gemeinsam mit seiner Schwester Rin,
+		der zweite Vocaloid in der VOCALOID2
+		Character Vocal Series von Crypton Future Media 
+		und trägt daher die Nummer "02" auf seiner Schulter.</p>
+	
+		
+		
+		<h1>Im Spiel "Colorful Stage"</h1>
+		<p>Ist er sozusagen ein Vorbild/Helfer
+		in den 5 Bands, die in 5 Welten (Sekai) 
+		aufgeteilt sind namens</p>
+		<ul>
+			<li>Leo Need</li>
+			<li>More More Jump</li>
+			<li>Wonderland x Showtime</li>
+			<li>Vivid Bad Squad</li>
+			<li>Nightcord at 25:00</li>
+		</ul>
+		
+		<h1>Persönlichkeit</h1>
+		<p>Seine Persönlichkeit wechselt in jedem Sekai.</p>
+		<ul>
+			<li>School Sekai</li>
+				<p>selbstbewusst, von seinen Fähigkeiten überzeugt,
+				spielt Gitarre.</p>
+			<li>Stage Sekai</li>
+				<p>sehr kühl und sanft, voller Überraschungen,
+				dort ein idol.</p>
+			<li>Wonderland Sekai</li>
+				<p>sehr energiegeladen und immer glücklich,
+				liebt das Schauspiel.</p>
+			<li>Street Sekai</li>
+				<p>ein DJ und Sänger, sehr hilfsbereit,
+				ein wenig kindisch, um reifer zu wirken "versucht"
+				er schwarzen Kaffee zu trinken.</p>
+			<li>Empty Sekai</li>
+				<p>kindlich und schüchtern, wird leicht ängstlich und 
+				unruhig wenn er nach etwas gefragt wird oder im
+				Mittelpunkt steht.
+	</div>
+		
+	<div id="fussbereich">
+		Len mag Bananen!
+	</div>
+		
+		
+	</body>
+</html>
