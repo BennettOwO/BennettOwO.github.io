@@ -70,12 +70,19 @@
 	
 	<div id="rollen">
 	<h1>Len spielt auch als...</h1>
+	
+	<div class="rolle">
 		<img src="AllenAvadonia.jpg" />
 			<p>Allen Avadonia</p>
+	</div>
+		<div class="rolle">
 		<img src="Pollooo.jpg" />
 			<p>Pollo</p>
+	</div>	
+		<div class="rolle">
 		<img src="LemyAbelard.jpg" />
 			<p>Lemy Abelard</p>
+	</div>
 	</div>
 	
 		
